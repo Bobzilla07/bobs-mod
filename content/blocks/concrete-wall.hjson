@@ -1,0 +1,12 @@
+{
+	"name": "Concrete Wall",
+	"description": "Wall made of cheap concrete, almost as strong as copper. 1x1.",
+	"type": "Wall",
+	"health": 300,
+	"size": 1,
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}
