@@ -1,11 +1,11 @@
 {
-	"name": "Concrete Wall",
-	"description": "Wall made of cheap concrete, almost as strong as copper. 1x1.",
+	"name": "Copper Block",
+	"description": "A block of copper thats stronger than a normal wall. Costs more but works better.",
 	"type": "Wall",
-	"health": 300,
+	"health": 500,
 	"size": 1,
 	"requirements": [
-		{ "item": "copper", "amount": 10 }
+		{ "item": "copper", "amount": 1000 }
 	],
 	"category": "defense",
 	"research": "copper-wall"
