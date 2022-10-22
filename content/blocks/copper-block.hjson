@@ -5,7 +5,7 @@
 	"health": 500,
 	"size": 1,
 	"requirements": [
-		{ "item": "copper", "amount": 1000 }
+		{ "item": "copper", "amount": 250 }
 	],
 	"category": "defense",
 	"research": "copper-wall"
