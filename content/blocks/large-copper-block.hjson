@@ -11,7 +11,7 @@
 	research: {
   parent: copper-block
   requirements: [
-    copper/2000
+    copper/1000
   ]
 }
 }
