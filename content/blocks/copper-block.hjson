@@ -12,7 +12,7 @@
 research: {
   parent: copper-wall
   requirements: [
-    copper/1000
+    copper/500
   ]
 }
 }
