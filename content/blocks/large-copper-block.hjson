@@ -1,1 +1,12 @@
-
+{
+	"name": "Large Copper Block",
+	"description": "A large block of copper thats stronger than a normal wall. Costs more but works better.",
+	"type": "Wall",
+	"health": 1000,
+	"size": 2,
+	"requirements": [
+		{ "item": "copper", "amount": 2000 }
+	],
+	"category": "defense",
+	"research": "large-copper-wall"
+}
