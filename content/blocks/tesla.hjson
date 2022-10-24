@@ -29,10 +29,7 @@ consumes:{
 }
 
 requirements:[
-  lead/65
-  graphite/50
-  nathilhaIngot/80
-  thorium/32
+  copper/65
   ]
 category: turret
 }
