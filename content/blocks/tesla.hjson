@@ -27,9 +27,8 @@ consumes:{
     booster: true
   }
 }
-
-requirements:[
-  copper/65
-  ]
-category: turret
-}
+"requirements": [
+		{ "item": "copeper", "amount": 1 }
+	],
+"research": "copper-wall"
+	"category": "turret",
