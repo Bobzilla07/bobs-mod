@@ -1,34 +1,17 @@
-{type: PowerTurret
-
-size: 2
-targetAir: true
-targetGround: true
-hasPower: true
-reloadTime: 36
-cooldown: 5
-range: 190
-health: 450
-shootSound: laser
-recoilAmount: 2
-inaccuracy: 5.5
-powerUse: 9.5
-shootType:{
-  type: LaserBulletType
-  damage: 25
-  lenght: 195
-  width: 10
+{
+	"shootSound": "swings",
+	"ammo": {
+		"copper": {
+			"speed": 100.0,
+			"damage": 100,
+			"reloadMultiplier": 0.5,
+			"bulletWidth": 7,
+			"bulletHeight": 9,
+			"shootEffect": "shootSmall",
+			"smokeEffect": "shootSmallSmoke",
+			"ammoMultiplier": 2,
+			"backColor": "ac7349",
+			"frontColor": "dcd16b"
+		}
+	}
 }
-
-consumes:{
-  liquid:{
-    liquid: cryofluid
-    amount: 0.2
-    optional: true
-    booster: true
-  }
-}
-"requirements": [
-		{ "item": "copeper", "amount": 1 }
-	],
-"research": "copper-wall"
-	"category": "turret",
