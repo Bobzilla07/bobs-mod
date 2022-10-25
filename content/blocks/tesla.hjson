@@ -14,4 +14,9 @@
 			"frontColor": "dcd16b"
 		}
 	}
+	"requirements": [
+		{ "item": "copper", "amount": 10 }
+	],
+	"category": "turret",
+	"research": "copper-wall"
 }
